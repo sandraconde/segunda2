@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h1>hola soy sandra</h1>
-	<?php echo "hola soy sandra" ?>
+	<?php echo "hola soy sandra"; ?>
 </body>
 </html>
